@@ -1,0 +1,6 @@
+African Literature||Chinua Achebe||978-0003||Literature||1965||Heinemann||B1
+Java Programming||James Gosling||978-0001||Computer Science||2018||Oracle Press||A1
+Python Basics||Guido van Rossum||978-0002||Computer Science||2020||O'Reilly||A2
+Limitless||Jim Qwik||333-0994||Self Improvement||2018||Blessed Publications||B12
+Modern Physics||Stephen Hawking||978-0004||Science||1999||Bantam||C1
+History of Ghana||Kwame Nkrumah||978-0005||History||1960||Pan-African Press||D2
